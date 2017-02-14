@@ -1,0 +1,7 @@
+Asunto del mensaje: 
+La incidencia con Identificador $Context/Property[Type='WorkItem!System.WorkItem']/Id$ ha sido cerrada por el analista
+
+Cuerpo del mensaje:
+La petición con Identificador: $Context/Property[Type='WorkItem!System.WorkItem']/Id$ Con título: $Context/Property[Type='WorkItem!System.WorkItem']/Title$ Con fecha de creación: $Context/Property[Type='WorkItem!System.WorkItem']/CreatedDate$ y con descripción: $Context/Property[Type='WorkItem!System.WorkItem']/Description$
+Ha sido cerrada por el analista.
+Este correo solo se envía al personal de soporte y no se envía al usuario.
