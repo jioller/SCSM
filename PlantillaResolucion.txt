@@ -1,0 +1,9 @@
+Asunto del mensaje: 
+La incidencia con Identificador $Context/Property[Type='WorkItem!System.WorkItem']/Id$ ha sido resuelta
+
+Cuerpo del mensaje: 
+La petición con Identificador: $Context/Property[Type='WorkItem!System.WorkItem']/Id$ Con título: $Context/Property[Type='WorkItem!System.WorkItem']/Title$ Con fecha de creación: $Context/Property[Type='WorkItem!System.WorkItem']/CreatedDate$ y con descripción: $Context/Property[Type='WorkItem!System.WorkItem']/Description$
+
+Ha sido resuelta con fecha y hora: $Context/Property[Type='WorkItem!System.WorkItem.TroubleTicket']/ResolvedDate$
+
+El analista reporta la siguiente causa para la resolución: $Context/Property[Type='CoreIncident!System.WorkItem.Incident']/ResolutionDescription$
