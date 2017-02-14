@@ -1,0 +1,8 @@
+Asunto del mensaje: 
+Se ha recibido una petición de soporte con identificador: $Context/Property[Type='WorkItem!System.WorkItem']/Id$
+Cuerpo del mensaje:
+Estimado usuario, Se ha recibido una petición de soporte a través del sistema de gestión con los siguientes detalles:
+Título: $Context/Property[Type='WorkItem!System.WorkItem']/Id$
+Descripción: $Context/Property[Type='WorkItem!System.WorkItem']/Description$
+Teniendo en cuenta la urgencia ($Context/Property[Type='WorkItem!System.WorkItem.TroubleTicket']/Urgency$) que ha proporcionado al hacer la solicitud se ha adjudicado una prioridad de: $Context/Property[Type='WorkItem!System.WorkItem.TroubleTicket']/Priority$
+Esta petición de soporte va a ser revisada por un analista tan pronto como sea posible.
