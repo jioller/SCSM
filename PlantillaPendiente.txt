@@ -1,0 +1,7 @@
+Asunto del mensaje: 
+La incidencia con Identificador $Context/Property[Type='WorkItem!System.WorkItem']/Id$ ha pasado a estar pendiente.
+
+Cuerpo del mensaje: 
+La petición con Identificador: $Context/Property[Type='WorkItem!System.WorkItem']/Id$ Con título: $Context/Property[Type='WorkItem!System.WorkItem']/Title$ Con fecha de creación: $Context/Property[Type='WorkItem!System.WorkItem']/CreatedDate$ y con descripción: $Context/Property[Type='WorkItem!System.WorkItem']/Description$
+
+Ha pasado a estado PENDIENTE a la espera de algún evento relacionado.
